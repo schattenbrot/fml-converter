@@ -11,7 +11,7 @@ Takes json/yaml and converts it into a hard to maintanable folder structure
 }
 ```
 
-Wird zu:
+Gets converted to:
 
 ```
 Main
